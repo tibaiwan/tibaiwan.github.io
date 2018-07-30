@@ -1,8 +1,8 @@
 {
-  "main.css": "static/css/main.0f7d5561.css",
-  "main.css.map": "static/css/main.0f7d5561.css.map",
-  "main.js": "static/js/main.3abc2d7e.js",
-  "main.js.map": "static/js/main.3abc2d7e.js.map",
-  "static\\media\\doupin.jpg": "static/media/doupin.179c77b3.jpg",
-  "static\\media\\person-header.jpg": "static/media/person-header.61864eab.jpg"
+  "douban\\static\\media\\doupin.jpg": "douban/static/media/doupin.179c77b3.jpg",
+  "douban\\static\\media\\person-header.jpg": "douban/static/media/person-header.61864eab.jpg",
+  "main.css": "douban/static/css/main.719003b1.css",
+  "main.css.map": "douban/static/css/main.719003b1.css.map",
+  "main.js": "douban/static/js/main.d15f2f37.js",
+  "main.js.map": "douban/static/js/main.d15f2f37.js.map"
 }

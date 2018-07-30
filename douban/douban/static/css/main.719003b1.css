@@ -531,7 +531,7 @@
   height: 26vh;
   padding: 0.4rem;
   color: #fff;
-  background-image: url(/static/media/person-header.61864eab.jpg);
+  background-image: url(/douban/static/media/person-header.61864eab.jpg);
   background-size: cover;
 }
 .person-wrap .header .setting {
@@ -653,4 +653,4 @@ li {
   list-style: none;
 }
 
-/*# sourceMappingURL=main.0f7d5561.css.map*/
+/*# sourceMappingURL=main.719003b1.css.map*/
