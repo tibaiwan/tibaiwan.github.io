@@ -1,2 +1,0 @@
-webpackJsonp([2],{"6Bz6":function(t,e){},Ldw1:function(t,e,n){"use strict";Object.defineProperty(e,"__esModule",{value:!0});var r={render:function(){this.$createElement;this._self._c;return this._m(0)},staticRenderFns:[function(){var t=this.$createElement,e=this._self._c||t;return e("section",[e("h1",[this._v("敬请期待")])])}]};var i=n("Aizv")({data:function(){return{}},methods:{}},r,!1,function(t){n("6Bz6")},"data-v-285093b8",null);e.default=i.exports}});
-//# sourceMappingURL=2.0c6304e263b6ccad5b3d.js.map

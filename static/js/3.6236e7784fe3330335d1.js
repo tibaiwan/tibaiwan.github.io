@@ -1,2 +1,0 @@
-webpackJsonp([3],{eQlH:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var i={render:function(){this.$createElement;this._self._c;return this._m(0)},staticRenderFns:[function(){var e=this.$createElement,t=this._self._c||e;return t("section",[t("div",[this._v("艾欧尼亚 detail")])])}]},r=n("Aizv")({data:function(){return{}}},i,!1,null,null,null);t.default=r.exports}});
-//# sourceMappingURL=3.6236e7784fe3330335d1.js.map
